@@ -1,0 +1,26 @@
+{
+  "name": "directive-inputmask",
+  "version": "0.1.0",
+  "description": "InputMask for Vue.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maryasov/directive-inputmask"
+  },
+  "author": "Max Wagner <mx.wg@yandex.ru>",
+  "license": "MIT",
+  "keywords": [
+    "inputmask",
+    "vuejs"
+  ],
+  "dependencies": {
+    "inputmask": "^4.0.3",
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.6.0"
+  },
+  "main": "./dist/directive-inputmask.js"
+}
